@@ -1,2 +1,2 @@
 # snowday-calculator
-A calculator for snowdays
+A calculator for snowdays.
